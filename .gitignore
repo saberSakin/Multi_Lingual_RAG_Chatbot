@@ -1,4 +1,6 @@
 .env
-**/test_env/
+**/test1_env/
 **/node_modules/
+**/index.pkl
+**/index.faiss
 **/index.pkl
