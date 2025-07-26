@@ -1,0 +1,4 @@
+.env
+**/test_env/
+**/node_modules/
+**/index.pkl
